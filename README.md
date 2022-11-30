@@ -1,5 +1,9 @@
 # Olá, me chamo Miguel Germano ! 
 ## Bem vindo ao meu perfil GitHub 👋
+<div>
+  <p>Sou formado em Redes de Computadores desde 2016, trabalhei diretamente com Telecom entre 2016 e 2021, quando decidi estudar Back-and. Atualmente tralho como Service Desk N2, onde atuo verificando as falhas reclamadas do sistema e direcionando o chamado para o setor pertinente.</p>
+  <p>Estou em busca de uma oportunidade de estagio ou como Desenvolvedor Back-and Jr, para poder aprimorar meus conhecimentos.</p>
+</div>
 
 - 🔭 Atualmente estou trabalhando como Service Desk N2 em uma empresa que presta serviço ao sistema PJe do Tribunal Regional da 5º Região (TRF-5).
 - 🌱 Atualmente estou aprendendo JavaScript, Python e JAVA.
