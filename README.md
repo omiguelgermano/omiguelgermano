@@ -1,7 +1,7 @@
 # Olá, me chamo Miguel Germano ! 
 ## Bem vindo ao meu perfil GitHub 👋
 <div>
-  <p>Sou formado em Redes de Computadores desde 2016, trabalhei diretamente com Telecom entre 2016 e 2021, quando decidi estudar Back-and.  
+  <p>Sou formado em Redes de Computadores desde 2016, trabalhei diretamente com Telecom entre 2016 e 2021, quando decidi estudar Back-end.  
   </br>Estou em busca de uma oportunidade de estagio ou como Desenvolvedor Back-end Jr, para poder aprimorar meus conhecimentos.</p>
 </div>
 
