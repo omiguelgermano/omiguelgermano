@@ -7,12 +7,6 @@
 
 - 🔭 Atualmente estou trabalhando como Service Desk N2 em uma empresa que presta serviço ao sistema PJe do Tribunal Regional da 5º Região (TRF-5).
 - 🌱 Atualmente estou aprendendo JavaScript, Python e JAVA.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
  ## Ferramentas e Tecnologias 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
@@ -29,7 +23,7 @@
 ## Contatos:
 
 <div>
-  <a href="whatsapp://send?text=TITULO &ndash; LINK" title="Acesse de seu smartphone para enviar por WhatsApp">WhatsApp</a>  <a href = "mailto:miguel86@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:miguel86@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/omiguelgermano/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
