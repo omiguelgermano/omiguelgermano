@@ -1,8 +1,11 @@
 # Olá, me chamo Miguel Germano ! 
+
 ## Bem vindo ao meu perfil GitHub 👋
 <div>
   <p>Sou formado em Redes de Computadores desde 2016, trabalhei diretamente com Telecom entre 2016 e 2021, quando decidi estudar Back-end.  
-  </br>Estou em busca de uma oportunidade de estagio ou como Desenvolvedor Back-end Jr, para poder aprimorar meus conhecimentos.</p>
+  </br>
+  Nesse processo de transição de carreira, estou disponível para estágio ou até mesmo encarar o desafio de atuar como Desenvolvedor Back-end Jr. E, com isto, solidificar conhecimentos e agregar soluções nos projetos em que irei atuar.
+</p>
 </div>
 
 💡 Faço parte do Service Deck N2 EDS, prestando serviço ao sistema PJe do Tribunal Regional da 5º Região (TRF-5);
