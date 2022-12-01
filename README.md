@@ -42,6 +42,9 @@
   ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 ![Snake animation](https://github.com/omiguelgermano/omiguelgermano/blob/output/github-contribution-grid-snake.svg)
+  
+  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
   
 <!--
