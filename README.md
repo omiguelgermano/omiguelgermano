@@ -1,6 +1,8 @@
 # Hello, Devs!
+</br>
 
 ## me chamo Miguel Germano ! 
+</br>
 
 
 #### Bem vindo ao meu perfil GitHub 👋
@@ -15,9 +17,10 @@
   <a href="https://www.linkedin.com/in/omiguelgermano">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
- </br>
 </div>
 
+</br>
+</br>
 
 <div>
 
