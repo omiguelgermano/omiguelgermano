@@ -5,8 +5,13 @@
   </br>Estou em busca de uma oportunidade de estagio ou como Desenvolvedor Back-end Jr, para poder aprimorar meus conhecimentos.</p>
 </div>
 
-- 🔭 Atualmente estou trabalhando como Service Desk N2 em uma empresa que presta serviço ao sistema PJe do Tribunal Regional da 5º Região (TRF-5).
-- 🌱 Atualmente estou aprendendo JavaScript, Python e JAVA.
+💡 Faço parte do Service Deck N2 EDS, prestando serviço ao sistema PJe do Tribunal Regional da 5º Região (TRF-5);
+
+📚 Tenho estudado JavaScript, Python e JAVA e iniciei meus estudos para desenvolver apps para Web/Desktop;
+
+☕️ 📺 adoro café e vejo serie pra relaxar.
+
+📫 Você pode falar comigo pelo Linkedin ou pelo E-mail (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 ### 🖥️ Tecnologias e Ferramentas:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
