@@ -40,10 +40,14 @@
 
 📫 Você pode falar comigo pelo Linkedin ou pelo E-mail (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
+</br>
+
 ### 🖥️ Tecnologias e Ferramentas:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
  
+ </br>
+
  ## Estou aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -51,15 +55,19 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
  
- 
+ </br>
+
 ## Contatos:
 
 <div>
 <a href = "mailto:miguel86@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/omiguelgermano/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>   
+</div>
+
+</br>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/omiguelgermano">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omiguelgermano&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omiguelgermano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
