@@ -2,7 +2,8 @@
 
 ## me chamo Miguel Germano ! 
 
-### Bem vindo ao meu perfil GitHub 👋
+
+#### Bem vindo ao meu perfil GitHub 👋
 
 <div>
  <a href="https://www.instagram.com/omiguelgermano/">
@@ -14,10 +15,12 @@
   <a href="https://www.linkedin.com/in/omiguelgermano">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
+ </br>
 </div>
 
 
 <div>
+
   <p>Sou formado em Redes de Computadores desde 2016, trabalhei diretamente com Telecom entre 2016 e 2021, quando decidi estudar Back-end.  
   </br>
   Nesse processo de transição de carreira, estou disponível para estágio ou até mesmo encarar o desafio de atuar como Desenvolvedor Back-end Jr. E, com isto, solidificar conhecimentos e agregar soluções nos projetos em que irei atuar.
