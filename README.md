@@ -8,7 +8,7 @@
 - 🔭 Atualmente estou trabalhando como Service Desk N2 em uma empresa que presta serviço ao sistema PJe do Tribunal Regional da 5º Região (TRF-5).
 - 🌱 Atualmente estou aprendendo JavaScript, Python e JAVA.
 
- ## Ferramentas e Tecnologias 
+### 🖥️ Tecnologias e Ferramentas:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
  
