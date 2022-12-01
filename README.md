@@ -25,7 +25,7 @@
 <div>
 <a href = "mailto:miguel86@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/omiguelgermano/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>   
-[google](google.com){:target="_blank"}
+![google](google.com){:target="_blank"}
 </div>
 
 <div>
