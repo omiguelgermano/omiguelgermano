@@ -71,7 +71,7 @@
 <div>
 <a href="https://github.com/omiguelgermano">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omiguelgermano&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omiguelgermano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img width="100em" height="180em" src="https://github-readme-stats.vercel.app/api?username=omiguelgermano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ![Snake animation](https://github.com/omiguelgermano/omiguelgermano/blob/output/github-contribution-grid-snake.svg)
