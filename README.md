@@ -1,5 +1,5 @@
 # Hello, Devs!
-## me chamo Miguel Germano ! 
+## Me chamo Miguel Germano ! 
 #### Bem vindo ao meu perfil GitHub 👋
 #### Pode descer pra me conhecer melhor!👍
 </br>
