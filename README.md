@@ -52,7 +52,9 @@
 <div>
   <p>Sou formado em Redes de Computadores desde 2016, trabalhei diretamente com Telecom entre 2016 e 2021, quando decidi estudar Back-end.  
   </br>
-  Nesse processo de transição de carreira, estou disponível para estágio ou até mesmo encarar o desafio de atuar como Desenvolvedor Back-end Jr. E, com isto, solidificar conhecimentos e agregar soluções nos projetos em que irei atuar.
+Nesse processo de transição de carreira, passei pelas linguagens mais populares do mercado, fiz vários cursos, cursos de extensão (JAVA WEB e C#), curso técnico (Análise e desenvolvimento de sistemas – com PHP) e de especialização (Big Data e Data Analyst), e hoje atuo como Desenvolvedor Full Stack em uma empresa que é nascida no Brasil, mas quem tem atuação multinacional com inovação e tecnologia. 
+  </br>
+Pretendo poder contribuir cada vez mais com a comunidade, e assim somar para um futuro melhor.
 </p>
 </div>
 
