@@ -62,10 +62,6 @@ Pretendo poder contribuir cada vez mais com a comunidade, e assim somar para um 
 </br>
 
 
-💡 Faço parte do Service Deck N2 EDS, prestando serviço ao sistema PJe do Tribunal Regional da 5º Região (TRF-5);
-
-📚 Tenho estudado JavaScript, Python e JAVA e iniciei meus estudos para desenvolver apps para Web/Desktop;
-
 ☕️ 📺 adoro café e vejo serie pra relaxar.
 
 📫 Você pode falar comigo pelo Linkedin ou pelo E-mail (eu demoro a responder as vezes mas sou legal, juro 🙃) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
