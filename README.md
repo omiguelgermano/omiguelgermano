@@ -20,15 +20,14 @@
  
  </br>
 
- ## Estou aprendendo
+ ## Sempre aprendendo ...
 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="40" height="40"/>      
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
- 
  </br>
 
 <div>
@@ -50,7 +49,7 @@
 </br>
 
 <div>
-  <p>Sou formado em Redes de Computadores desde 2016, trabalhei diretamente com Telecom entre 2016 e 2021, quando decidi estudar Back-end.  
+  <p>Sou formado em Redes de Computadores desde 2016, trabalhei diretamente com Telecom entre 2016 e 2021, Pós graduado em Ciências de Dados e Big Data Analytics.  
   </br>
 Nesse processo de transição de carreira, passei pelas linguagens mais populares do mercado, fiz vários cursos, cursos de extensão (JAVA WEB e C#), curso técnico (Análise e desenvolvimento de sistemas – com PHP) e de especialização (Big Data e Data Analyst), e hoje atuo como Desenvolvedor Full Stack em uma empresa que é nascida no Brasil, mas quem tem atuação multinacional com inovação e tecnologia. 
   </br>
